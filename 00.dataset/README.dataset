@@ -1,7 +1,7 @@
 [Train dataset]
-  train_clinvar.txt
+  trainset.clinvar.txt
 
 [Test dataset]
-  test1_clinvar.txt
-  test2_uniprot.txt
-  test3_clinge.txt
+  testset.clinvar.txt
+  testset.uniprot.txt
+  testset.clingen.txt
