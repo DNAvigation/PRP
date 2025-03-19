@@ -1,4 +1,4 @@
-chr	pos	alRef	alAlt	aaRef	aaAlt	clnSig
+#chr	pos	alRef	alAlt	aaRef1	aaAlt1	clnSig
 1	935779	G	A	G	S	0
 1	1044017	G	A	E	K	0
 1	1337985	T	C	Q	R	0
