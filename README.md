@@ -1,5 +1,5 @@
 # PRP
-Pathogenic Risk Prediction
+Pathogenic Risk Prediction for Rare Nonsynonymous Single Nucleotide Variants
 
 |library|version|
 |---|---|
