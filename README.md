@@ -3,7 +3,7 @@
 ## Notes
 * The training dataset and three test datasets associated with the publication are available under the '00.dataset'<br>
   OR get it from [Zenodo](https://zenodo.org/records/15195285).
-* PRP model are available under the '01.model' folders, with names PRP_xgboost.h5.
+* PRP model are available under the '02.code' folders, with names PRP_xgboost.pkl.
 * The PRP performance comparison associated with the publication is available under the '02.code' folders, with names 02.performance.ipynb.
 * The PRP scores are available under the '03.PRP_score' folders.
 * For user convenience, a web interface will be provided, offering access to the PRP scores, biological annotations for variants, and decision plots for prediction interpretation
