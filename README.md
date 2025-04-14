@@ -13,11 +13,10 @@ Pathogenic Risk Prediction for Rare Nonsynonymous Single Nucleotide Variants
 |Optuna|v3.6.1|
 
 ## Notes
-Supplementary Tables and model analyses associated with the publication are available under folders Data and Notebooks.
-
-Tensorflow models of MetaRNN and MetaRNN-indel are available under Resources/Models, with names RNN_DNN_adam.h5 and RNN_DNN_indel_adam.h5, respectively.
-
-The code for the MetaRNN pipeline, including data preparation and making predictions, is available under Resources/Pipeline.
+* The training dataset and three test datasets associated with the publication are available under the '01.data'
+* The PRP performance comparison associated with the publication is available under the '02.code' folders.
+* PRP model are available under the '02.code' folders, with names PRP_xgboost.h5.
+* The PRP scores are available under the '03.PRP_score' folders.
 
 ## Contact
 goslak97@snu.ac.kr
